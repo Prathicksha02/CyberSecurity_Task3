@@ -69,18 +69,18 @@
 2. Registered for a free activation code and completed Nessus setup.
 3. Found the IP addresses of my Linux machines using:
    ip a
-4.Created a Basic Network Scan in Nessus, targeting both Linux machine IPs.
-5.Started the scan and waited for it to complete (25 minutes).
-6.Reviewed the scan results for vulnerabilities and severity.
-7.Identified key vulnerabilities:
---DNS Cache Snooping
---ICMP Timestamp response enabled
---Untrusted SSL Certificate
---SMB Signing not required
-8.Saved the full scan report as a PDF from the Nessus web interface.
-   Report pdf is included here: Vulnerability-Assessment-Task3.pdf
-9.Took relevant screenshots of the scan summary and vulnerabilities.
-   Screenshots pdf is included here: Screenshots_task3.pdf
+4. Created a Basic Network Scan in Nessus, targeting both Linux machine IPs.
+5. Started the scan and waited for it to complete (25 minutes).
+6. Reviewed the scan results for vulnerabilities and severity.
+7. Identified key vulnerabilities:
+    --DNS Cache Snooping
+    --ICMP Timestamp response enabled
+    --Untrusted SSL Certificate
+    --SMB Signing not required
+8. Saved the full scan report as a PDF from the Nessus web interface.
+     Report pdf is included here: Vulnerability-Assessment-Task3.pdf
+9. Took relevant screenshots of the scan summary and vulnerabilities.
+     Screenshots pdf is included here: Screenshots_task3.pdf
 
 
 ## Outcomes
