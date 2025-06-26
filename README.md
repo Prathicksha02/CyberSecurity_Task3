@@ -85,9 +85,9 @@
 
 ## Outcomes
 
-1.Gained hands-on experience with Nessus vulnerability scanner
-2.Identified real security risks in Linux systems
-3.Practiced applying basic system hardening techniques
-4.Understood vulnerability severity levels and CVSS basics
+1. Gained hands-on experience with Nessus vulnerability scanner
+2. Identified real security risks in Linux systems
+3. Practiced applying basic system hardening techniques
+4. Understood vulnerability severity levels and CVSS basics
 
 
